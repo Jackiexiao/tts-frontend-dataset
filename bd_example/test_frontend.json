@@ -1,0 +1,144 @@
+{
+    "words": [
+        {
+            "word": "你",
+            "start_time": 0.025,
+            "end_time": 0.165,
+            "unit_type": "text"
+        },
+        {
+            "word": "好",
+            "start_time": 0.165,
+            "end_time": 0.41,
+            "unit_type": "text"
+        },
+        {
+            "word": "世",
+            "start_time": 0.41,
+            "end_time": 0.605,
+            "unit_type": "text"
+        },
+        {
+            "word": "界",
+            "start_time": 0.605,
+            "end_time": 0.89,
+            "unit_type": "text"
+        },
+        {
+            "word": "，",
+            "start_time": 0.89,
+            "end_time": 1.05,
+            "unit_type": "mark"
+        },
+        {
+            "word": "hello",
+            "start_time": 1.05,
+            "end_time": 1.445,
+            "unit_type": "text"
+        },
+        {
+            "word": "world",
+            "start_time": 1.445,
+            "end_time": 2.025,
+            "unit_type": "text"
+        },
+        {
+            "word": "。",
+            "start_time": 2.025,
+            "end_time": 2.195,
+            "unit_type": "mark"
+        }
+    ],
+    "phonemes": [
+        {
+            "phone": "C0n",
+            "start_time": 0.025,
+            "end_time": 0.085
+        },
+        {
+            "phone": "C0i",
+            "start_time": 0.085,
+            "end_time": 0.165
+        },
+        {
+            "phone": "C0h",
+            "start_time": 0.165,
+            "end_time": 0.295
+        },
+        {
+            "phone": "C0ao",
+            "start_time": 0.295,
+            "end_time": 0.41
+        },
+        {
+            "phone": "C0sh",
+            "start_time": 0.41,
+            "end_time": 0.545
+        },
+        {
+            "phone": "C0iii",
+            "start_time": 0.545,
+            "end_time": 0.605
+        },
+        {
+            "phone": "C0j",
+            "start_time": 0.605,
+            "end_time": 0.705
+        },
+        {
+            "phone": "C0ie",
+            "start_time": 0.705,
+            "end_time": 0.89
+        },
+        {
+            "phone": "，",
+            "start_time": 0.89,
+            "end_time": 1.05
+        },
+        {
+            "phone": "E0hh",
+            "start_time": 1.05,
+            "end_time": 1.12
+        },
+        {
+            "phone": "E0ah",
+            "start_time": 1.12,
+            "end_time": 1.16
+        },
+        {
+            "phone": "E0l",
+            "start_time": 1.16,
+            "end_time": 1.27
+        },
+        {
+            "phone": "E0ow",
+            "start_time": 1.27,
+            "end_time": 1.445
+        },
+        {
+            "phone": "E0w",
+            "start_time": 1.445,
+            "end_time": 1.64
+        },
+        {
+            "phone": "E0er",
+            "start_time": 1.64,
+            "end_time": 1.735
+        },
+        {
+            "phone": "E0l",
+            "start_time": 1.735,
+            "end_time": 1.9
+        },
+        {
+            "phone": "E0d",
+            "start_time": 1.9,
+            "end_time": 2.025
+        },
+        {
+            "phone": "。",
+            "start_time": 2.025,
+            "end_time": 2.195
+        }
+    ]
+}

@@ -1,3 +1,15 @@
+
+*.mp3
+*.txt
+*.json
+
+temp*
+temp/
+output/
+.DS_Store
+.vscode/
+raw_data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
