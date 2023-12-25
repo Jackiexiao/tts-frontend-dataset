@@ -32,6 +32,7 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
         ```
         # 1. get your token from https://www.volcengine.com/product/voice-tech, save to .env
         # 2. prepare txtfile then run code
+        cd scripts/
         python bd_tts.py -n 2 -o output/
         python extract_data_from_bd_json.py 
         python get_g2p_data.py
