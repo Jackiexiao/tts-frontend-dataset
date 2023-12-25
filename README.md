@@ -28,7 +28,7 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
       - TTS Api from ByteDance
       - 代码
         ```
-        # 1. get your token from https://www.volcengine.com/product/voice-tech
+        # 1. get your token from https://www.volcengine.com/product/voice-tech, save to .env
         # 2. prepare txtfile then run code
         python bd_tts.py -n 2 -o output/
         python extract_data_from_bd_json.py 
@@ -41,8 +41,8 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
         宋代出现了▁le5▁燕乐音阶的记载
         爆发了▁le5▁占领华尔街示威活动
         # 韵律prosody
-        蔡少芬 #2 拍拖 #2 也不认啦 #4
-        瓦塔拉 #1 总统 #1 已 #1 下令 #3 坚决 #1 回应 #1 袭击者 #4
+        阿马#1里洛#3(德克#1萨斯州#4)。
+        深约#1零点#1五四#1公里#4。
         ```
   - Lexicon 《现代汉语词典》（第7版） 网友 txt 校对
     - https://github.com/CNMan/XDHYCD7th
