@@ -4,6 +4,8 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
 
 欢迎贡献,添加更多数据集, Feel free to contribute and add more datasets!
 
+链接：[语音 AI 共创知识库](https://ai-share.feishu.cn/wiki/KoWMwsCkmivXDRkFQ35czp0qned)
+
 ## ChangeLog
 - 2023-12-25 添加中文多音字韵律数据
 
