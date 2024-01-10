@@ -100,6 +100,7 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
 
 
 ### Cantonese
+https://github.com/jacksonllee/pycantonese
 
 - TN
 - G2P
