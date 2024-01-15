@@ -21,6 +21,7 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
   - 下载 Download
     - 百度网盘: 链接: https://pan.baidu.com/s/14h6qy8AKcdjgo_rs-h2kgA?pwd=3d7s 提取码: 3d7s
     - GoogleDrive: https://drive.google.com/file/d/18qCKEqQGEdrLMNPB0CmdtH1XOqgs9w1o/view?usp=sharing
+    - export HF_ENDPOINT=https://hf-mirror.com && git clone https://huggingface.co/datasets/jackiexiao/tts-frontend-dataset
   - 数据来源
     - 文本来源: 
       - 随机挑选自 维基百科json版(wiki2019zh) from https://github.com/brightmart/nlp_chinese_corpus
