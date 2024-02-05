@@ -7,6 +7,7 @@ TTS FrontEnd DataSet: Polyphone / Prosody / TextNormalization
 链接：[语音 AI 共创知识库](https://ai-share.feishu.cn/wiki/KoWMwsCkmivXDRkFQ35czp0qned)
 
 ## ChangeLog
+- 2024-2-5 添加中英混合&英文数据, 感谢 @casioexlim 分享, 见: https://pan.baidu.com/s/1rCW4bAsPTghgPDetwQNAxQ?pwd=jzxv , 需要使用本仓库的脚本从 json 文件中提取多音字/韵律数据
 - 2023-12-25 添加中文多音字韵律数据
 
 ## Todo
